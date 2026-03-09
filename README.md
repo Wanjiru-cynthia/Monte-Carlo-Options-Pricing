@@ -68,7 +68,12 @@ Where:
   portfolio carrying AAPL as a core position
 
 ## Tools
-- Python — NumPy — Pandas — yfinance — Matplotlib — SciPy
+Python
+NumPy 
+Pandas 
+yfinance  
+Matplotlib  
+SciPy
 
 ## Next Steps
 - Extend to Put Options — verify Put-Call Parity
