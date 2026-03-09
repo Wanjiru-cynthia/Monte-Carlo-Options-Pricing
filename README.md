@@ -77,4 +77,4 @@ Where:
 - Increase N to 100,000 — demonstrate convergence improvement
 
 ## Author
-Cynthia Wanjiru | MSc Quantitative Finance | Washington University in St Louis
+Cynthia Wanjiru | MS Quantitative Finance | Washington University in St Louis
